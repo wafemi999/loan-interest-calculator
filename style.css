@@ -1,0 +1,42 @@
+body {
+    background-color:black;
+    
+    font-family: arial;
+    color: white;
+        
+
+
+}
+
+h1  {
+    
+    color:gray;
+    font-family: verdana;
+
+
+}
+
+.maindiv {
+
+    background-color: rgb(155, 158, 129);
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    
+   
+
+
+}
+
+
+#my-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+
